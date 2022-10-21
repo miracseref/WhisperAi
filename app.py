@@ -1,6 +1,5 @@
 import streamlit as st
 import whisper
-import pickle
 
 st.title("WhisperAi WebApp")
 
